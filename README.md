@@ -21,7 +21,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/167655396?v=4"  />
+
 
 ###
 
