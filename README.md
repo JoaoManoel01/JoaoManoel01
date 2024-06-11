@@ -54,7 +54,8 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/JoaoManoel01/JoaoManoel01/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHZhbXJ0MnZobmtneWV2MXJ0ZXA4Nmlnd3c5ZXd6eG5qbHJkM3I5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QKFrBz4cLs6IM/giphy.webp"/>     
+  
 
 ###
