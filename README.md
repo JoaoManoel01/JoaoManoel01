@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">📍 Recife, PE – Brasil<br>🎓 Bacharelando em Administração com foco em Estratégia, Business Intelligence e Dados<br>🧠 Atuação em projetos orientados à modelagem de negócios, validação de ideias e construção de MVPs viáveis<br>🚀 Experiência prática em ambientes de startups, com interface entre Produto, Tecnologia e Mercado<br>💻 Background prévio em Tecnologia da Informação, com conhecimentos em desenvolvimento web e análise de dados<br><br>Apaixonado por transformar ideias em soluções viáveis, utilizando dados, metodologias ágeis e visão estratégica para impulsionar crescimento e inovação.</p>
+<p align="left">📍 Recife, PE – Brasil<br>🎓 Bacharelando em Administração com foco em Estratégia, Business Intelligence e Dados<br>🧠 Atuação em projetos orientados à modelagem de negócios, validação de ideias e construção de MVPs viáveis<br>🚀 Experiência prática em ambientes com interface entre Produto, Tecnologia e Mercado<br>💻 Background prévio em Tecnologia da Informação, com conhecimentos em desenvolvimento web e análise de dados<br><br>Apaixonado por transformar ideias em soluções viáveis, utilizando dados, metodologias ágeis e visão estratégica para impulsionar crescimento e inovação.</p>
 
 ###
 
