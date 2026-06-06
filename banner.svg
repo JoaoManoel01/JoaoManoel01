@@ -1,0 +1,44 @@
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#04342C"/>
+      <stop offset="60%" stop-color="#0F6E56"/>
+      <stop offset="100%" stop-color="#1D9E75"/>
+    </linearGradient>
+    <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#085041" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#ED9F27" stop-opacity="0.3"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ED9F27"/>
+      <stop offset="100%" stop-color="#FAC775"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="200" fill="url(#bg)"/>
+
+  <!-- Wave shapes -->
+  <path d="M0,140 C150,110 300,160 450,130 C600,100 750,150 900,120 L900,200 L0,200 Z" fill="url(#wave1)" opacity="0.5"/>
+  <path d="M0,160 C200,130 400,175 600,150 C750,130 850,165 900,155 L900,200 L0,200 Z" fill="#04342C" opacity="0.7"/>
+
+  <!-- Decorative dots -->
+  <circle cx="80" cy="40" r="3" fill="#9FE1CB" opacity="0.4"/>
+  <circle cx="820" cy="60" r="4" fill="#ED9F27" opacity="0.4"/>
+  <circle cx="750" cy="30" r="2" fill="#9FE1CB" opacity="0.3"/>
+  <circle cx="150" cy="70" r="2" fill="#ED9F27" opacity="0.3"/>
+
+  <!-- Accent line -->
+  <rect x="60" y="88" width="60" height="3" rx="2" fill="url(#accent)" opacity="0.9"/>
+
+  <!-- Name -->
+  <text x="60" y="80" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="46" font-weight="700" fill="#FAEEDA" letter-spacing="1">João Manoel</text>
+
+  <!-- Subtitle -->
+  <text x="63" y="118" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#9FE1CB" letter-spacing="4">DATA  ·  AI &amp; LLMs  ·  STRATEGY</text>
+
+  <!-- Right tag -->
+  <rect x="680" y="68" width="180" height="32" rx="16" fill="#ED9F27" opacity="0.15"/>
+  <rect x="680" y="68" width="180" height="32" rx="16" fill="none" stroke="#ED9F27" stroke-width="1" opacity="0.5"/>
+  <text x="770" y="89" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="500" fill="#FAC775" text-anchor="middle" letter-spacing="2">Recife · PE · Brasil</text>
+</svg>
