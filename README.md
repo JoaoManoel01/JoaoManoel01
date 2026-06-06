@@ -1,73 +1,151 @@
-<h1 align="center">Olá Pessoal 👋 <br>Me chamo João</h1>
+<div align="center">
 
-###
+<!-- HEADER BANNER - paleta teal escuro + âmbar da foto -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0F6E56,085041,ED9F27&height=200&section=header&text=João%20Manoel&fontSize=52&fontColor=FAEEDA&fontAlignY=38&desc=Data%20%7C%20AI%20%7C%20Strategy&descAlignY=58&descSize=18&descColor=9FE1CB" width="100%"/>
+
+</div>
+
+---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/joaomanoelfin/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
+
+### 🇧🇷 Olá! &nbsp;&nbsp;|&nbsp;&nbsp; 🌎 Hello!
+
 </div>
 
-###
+---
+
+## 🇧🇷 Sobre mim · About me 🌎
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**PT — Quem sou eu**
+
+📍 Recife, PE — Brasil
+🎓 Administração no IFPE · BI, Estratégia & Dados
+🤖 Construo soluções com IA voltadas a dados e problemas reais
+📦 Trabalho na interface entre Produto, Tecnologia e Mercado
+🏗️ Aplico metodologias de gestão, arquitetura de processos e programação assistida por IA
+
+> *Apaixonado por transformar ideias em soluções viáveis — dados, IA e visão estratégica como motor.*
+
+</td>
+<td width="50%" valign="top">
+
+**EN — Who I am**
+
+📍 Recife, PE — Brazil
+🎓 Business Administration at IFPE · BI, Strategy & Data
+🤖 Building AI-powered solutions focused on data & real problems
+📦 Working at the intersection of Product, Technology & Market
+🏗️ Applying project management, process architecture & AI-assisted development
+
+> *Passionate about turning ideas into viable solutions — data, AI, and strategic vision as the engine.*
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Ferramentas & Stack · Tools & Stack
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=joaomanoel01.joaomanoel01&"  />
+
+### Data & Analytics
+![Python](https://img.shields.io/badge/Python-085041?style=for-the-badge&logo=python&logoColor=9FE1CB)
+![SQL](https://img.shields.io/badge/SQL-0F6E56?style=for-the-badge&logo=postgresql&logoColor=E1F5EE)
+![Power BI](https://img.shields.io/badge/Power%20BI-ED9F27?style=for-the-badge&logo=powerbi&logoColor=412402)
+![Excel](https://img.shields.io/badge/Excel%20%2F%20Sheets-085041?style=for-the-badge&logo=microsoftexcel&logoColor=9FE1CB)
+
+### AI & Development
+![Claude](https://img.shields.io/badge/Claude%20AI-0F6E56?style=for-the-badge&logo=anthropic&logoColor=E1F5EE)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-085041?style=for-the-badge&logo=openai&logoColor=9FE1CB)
+![VS Code](https://img.shields.io/badge/VS%20Code-ED9F27?style=for-the-badge&logo=visualstudiocode&logoColor=412402)
+![PyCharm](https://img.shields.io/badge/PyCharm-0F6E56?style=for-the-badge&logo=pycharm&logoColor=E1F5EE)
+![Git](https://img.shields.io/badge/Git-085041?style=for-the-badge&logo=git&logoColor=9FE1CB)
+![GitHub](https://img.shields.io/badge/GitHub-412402?style=for-the-badge&logo=github&logoColor=FAEEDA)
+
 </div>
 
-###
+---
 
-<h3 align="left">📊  Sobre mim</h3>
+## 🧠 O que eu faço · What I do
 
-###
+<table>
+<tr>
+<td align="center" width="33%">
 
-<p align="left">📍 Recife, PE – Brasil<br>🎓 Bacharelando em Administração com foco em Estratégia, Business Intelligence e Dados<br>🧠 Atuação em projetos orientados à modelagem de negócios, validação de ideias e construção de MVPs viáveis<br>🚀 Experiência prática em ambientes com interface entre Produto, Tecnologia e Mercado<br>💻 Background prévio em Tecnologia da Informação, com conhecimentos em desenvolvimento web e análise de dados<br><br>Apaixonado por transformar ideias em soluções viáveis, utilizando dados, metodologias ágeis e visão estratégica para impulsionar crescimento e inovação.</p>
+**🤖 AI Solutions**
 
-###
+PT: Construo produtos e automações com IA para resolver problemas reais de dados e processos
+
+EN: Building AI products and automations to solve real data and process challenges
+
+</td>
+<td align="center" width="33%">
+
+**📊 Data & BI**
+
+PT: Analiso dados, construo dashboards e gero insights com Python, SQL e Power BI
+
+EN: Analyzing data, building dashboards and generating insights with Python, SQL & Power BI
+
+</td>
+<td align="center" width="33%">
+
+**⚙️ Process Architecture**
+
+PT: Aplico gestão de projetos e arquitetura de processos com apoio de IA
+
+EN: Applying project management and process architecture supported by AI
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔥 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://i.pinimg.com/originals/a6/ec/26/a6ec267772889ac7115329267beac228.gif"  />
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=JoaoManoel01&show_icons=true&theme=dark&bg_color=04342C&title_color=ED9F27&icon_color=9FE1CB&text_color=E1F5EE&border_color=0F6E56&hide_border=false&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoManoel01&layout=compact&theme=dark&bg_color=04342C&title_color=ED9F27&text_color=E1F5EE&border_color=0F6E56&hide_border=false"/>
+
 </div>
 
-###
+---
 
-<h3 align="left">🛠 Linguagens e Ferramenteas</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+## 🚀 Em breve · Coming soon
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaomanoel01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=pt-br&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaomanoel01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+> 🇧🇷 Projetos indexados envolvendo Python, SQL e Power BI chegando em breve.
+> 🌎 Indexed projects involving Python, SQL and Power BI coming soon.
+
 </div>
 
-###
+---
+
+## 📬 Contato · Contact
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F6E56?style=for-the-badge&logo=linkedin&logoColor=E1F5EE)](https://www.linkedin.com/in/joaomanoel01/)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,085041,0F6E56,ED9F27&height=100&section=footer" width="100%"/>
+
+</div>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=JoaoManoel01&color=0F6E56&style=flat-square&label=visitors"/>
+</div>
