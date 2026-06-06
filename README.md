@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,04342C,0F6E56,ED9F27&height=210&section=header&text=João%20Manoel&fontSize=54&fontColor=FAEEDA&fontAlignY=38&desc=Data%20·%20AI%20%26%20LLMs%20·%20Strategy&descAlignY=58&descSize=19&descColor=9FE1CB" width="100%"/>
+<img src="./banner.svg" width="100%"/>
 
 </div>
 
@@ -186,7 +186,7 @@ Tool to automate overdue loan screening during Qbiblio → Koha migration, built
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,ED9F27,0F6E56,04342C&height=110&section=footer" width="100%"/>
+<img src="./banner.svg" width="100%"/>
 
 <img src="https://komarev.com/ghpvc/?username=JoaoManoel01&color=0F6E56&style=flat-square&label=visitors"/>
 
