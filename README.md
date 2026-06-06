@@ -1,6 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,04342C,0F6E56,ED9F27&height=210&section=header&text=João%20Manoel&fontSize=54&fontColor=FAEEDA&fontAlignY=38&desc=Data%20·%20AI%20%26%20LLMs%20·%20Strategy&descAlignY=58&descSize=19&descColor=9FE1CB" width="100%"/>
+<!-- SVG HEADER NATIVO - sem dependência externa -->
+<svg width="100%" viewBox="0 0 800 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#04342C"/>
+      <stop offset="50%" style="stop-color:#0F6E56"/>
+      <stop offset="100%" style="stop-color:#ED9F27"/>
+    </linearGradient>
+    <path id="wave" d="M0,160 L0,100 C100,80 200,120 300,100 C400,80 500,120 600,100 C700,80 750,110 800,100 L800,160 Z"/>
+  </defs>
+  <rect width="800" height="160" fill="url(#bg)"/>
+  <use href="#wave" fill="#04342C" opacity="0.4"/>
+  <text x="400" y="72" font-family="'Segoe UI', system-ui, sans-serif" font-size="42" font-weight="700" fill="#FAEEDA" text-anchor="middle" letter-spacing="1">João Manoel</text>
+  <text x="400" y="108" font-family="'Segoe UI', system-ui, sans-serif" font-size="16" font-weight="400" fill="#9FE1CB" text-anchor="middle" letter-spacing="3">Data · AI &amp; LLMs · Strategy</text>
+</svg>
 
 </div>
 
@@ -26,7 +40,7 @@
 📊 Atuo com dados reais: dashboards, automações e análise em ambiente institucional  
 🏗️ Aplico gestão de projetos, arquitetura de processos e programação assistida por IA  
 
-> *Transformo dados em decisões e ideias em soluções — usando IA como alavanca, não como atalho.*
+> *Transformo dados em decisões e ideias em soluções*
 
 </td>
 <td width="50%" valign="top">
@@ -37,7 +51,7 @@
 📊 Working with real data: dashboards, automations and analysis in institutional settings  
 🏗️ Applying project management, process architecture and AI-assisted coding  
 
-> *Turning data into decisions and ideas into solutions — using AI as leverage, not a shortcut.*
+> *Turning data into decisions and ideas into solutions*
 
 </td>
 </tr>
@@ -166,8 +180,9 @@ Tool to automate overdue loan screening during Qbiblio → Koha migration, built
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=JoaoManoel01&show_icons=true&theme=dark&bg_color=04342C&title_color=ED9F27&icon_color=9FE1CB&text_color=E1F5EE&border_color=0F6E56&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoManoel01&layout=compact&theme=dark&bg_color=04342C&title_color=ED9F27&text_color=E1F5EE&border_color=0F6E56"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=JoaoManoel01&show_icons=true&theme=dark&bg_color=04342C&title_color=ED9F27&icon_color=9FE1CB&text_color=E1F5EE&border_color=0F6E56&count_private=true&hide_border=false"/>
+&nbsp;&nbsp;
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoManoel01&layout=compact&theme=dark&bg_color=04342C&title_color=ED9F27&text_color=E1F5EE&border_color=0F6E56&hide_border=false"/>
 
 </div>
 
@@ -185,7 +200,17 @@ Tool to automate overdue loan screening during Qbiblio → Koha migration, built
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,ED9F27,0F6E56,04342C&height=110&section=footer" width="100%"/>
+<!-- SVG FOOTER NATIVO -->
+<svg width="100%" viewBox="0 0 800 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ED9F27"/>
+      <stop offset="50%" style="stop-color:#0F6E56"/>
+      <stop offset="100%" style="stop-color:#04342C"/>
+    </linearGradient>
+  </defs>
+  <path d="M0,0 C100,40 200,0 300,30 C400,60 500,20 600,40 C700,60 750,30 800,20 L800,80 L0,80 Z" fill="url(#fg)"/>
+</svg>
 
 <img src="https://komarev.com/ghpvc/?username=JoaoManoel01&color=0F6E56&style=flat-square&label=visitors"/>
 
