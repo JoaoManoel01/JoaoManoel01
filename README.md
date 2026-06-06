@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- HEADER BANNER - paleta teal escuro + âmbar da foto -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0F6E56,085041,ED9F27&height=200&section=header&text=João%20Manoel&fontSize=52&fontColor=FAEEDA&fontAlignY=38&desc=Data%20%7C%20AI%20%7C%20Strategy&descAlignY=58&descSize=18&descColor=9FE1CB" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,04342C,0F6E56,ED9F27&height=210&section=header&text=João%20Manoel&fontSize=54&fontColor=FAEEDA&fontAlignY=38&desc=Data%20·%20AI%20%26%20LLMs%20·%20Strategy&descAlignY=58&descSize=19&descColor=9FE1CB" width="100%"/>
 
 </div>
 
@@ -9,40 +8,36 @@
 
 <div align="center">
 
-### 🇧🇷 Olá! &nbsp;&nbsp;|&nbsp;&nbsp; 🌎 Hello!
+### 🇧🇷 Olá! &nbsp;&nbsp;·&nbsp;&nbsp; 🌎 Hello!
 
 </div>
 
 ---
 
-## 🇧🇷 Sobre mim · About me 🌎
+## 🇧🇷 Sobre mim &nbsp;·&nbsp; 🌎 About me
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**PT — Quem sou eu**
+📍 Recife, PE — Brasil  
+🎓 Administração · IFPE Campus Igarassu  
+🤖 Estudo IA em profundidade — LLMs, arquitetura de prompts e automação assistida  
+📊 Atuo com dados reais: dashboards, automações e análise em ambiente institucional  
+🏗️ Aplico gestão de projetos, arquitetura de processos e programação assistida por IA  
 
-📍 Recife, PE — Brasil
-🎓 Administração no IFPE · BI, Estratégia & Dados
-🤖 Construo soluções com IA voltadas a dados e problemas reais
-📦 Trabalho na interface entre Produto, Tecnologia e Mercado
-🏗️ Aplico metodologias de gestão, arquitetura de processos e programação assistida por IA
-
-> *Apaixonado por transformar ideias em soluções viáveis — dados, IA e visão estratégica como motor.*
+> *Transformo dados em decisões e ideias em soluções — usando IA como alavanca, não como atalho.*
 
 </td>
 <td width="50%" valign="top">
 
-**EN — Who I am**
+📍 Recife, PE — Brazil  
+🎓 Business Administration · IFPE Campus Igarassu  
+🤖 Studying AI in depth — LLMs, prompt architecture and AI-assisted development  
+📊 Working with real data: dashboards, automations and analysis in institutional settings  
+🏗️ Applying project management, process architecture and AI-assisted coding  
 
-📍 Recife, PE — Brazil
-🎓 Business Administration at IFPE · BI, Strategy & Data
-🤖 Building AI-powered solutions focused on data & real problems
-📦 Working at the intersection of Product, Technology & Market
-🏗️ Applying project management, process architecture & AI-assisted development
-
-> *Passionate about turning ideas into viable solutions — data, AI, and strategic vision as the engine.*
+> *Turning data into decisions and ideas into solutions — using AI as leverage, not a shortcut.*
 
 </td>
 </tr>
@@ -50,61 +45,120 @@
 
 ---
 
-## 🛠️ Ferramentas & Stack · Tools & Stack
+## 🛠️ Stack
 
 <div align="center">
 
-### Data & Analytics
+**Data & Analytics**
+
 ![Python](https://img.shields.io/badge/Python-085041?style=for-the-badge&logo=python&logoColor=9FE1CB)
-![SQL](https://img.shields.io/badge/SQL-0F6E56?style=for-the-badge&logo=postgresql&logoColor=E1F5EE)
+![Pandas](https://img.shields.io/badge/Pandas-0F6E56?style=for-the-badge&logo=pandas&logoColor=E1F5EE)
+![SQL](https://img.shields.io/badge/SQL-085041?style=for-the-badge&logo=postgresql&logoColor=9FE1CB)
 ![Power BI](https://img.shields.io/badge/Power%20BI-ED9F27?style=for-the-badge&logo=powerbi&logoColor=412402)
-![Excel](https://img.shields.io/badge/Excel%20%2F%20Sheets-085041?style=for-the-badge&logo=microsoftexcel&logoColor=9FE1CB)
+![Excel](https://img.shields.io/badge/Excel%20%2F%20Sheets-0F6E56?style=for-the-badge&logo=microsoftexcel&logoColor=E1F5EE)
 
-### AI & Development
-![Claude](https://img.shields.io/badge/Claude%20AI-0F6E56?style=for-the-badge&logo=anthropic&logoColor=E1F5EE)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-085041?style=for-the-badge&logo=openai&logoColor=9FE1CB)
-![VS Code](https://img.shields.io/badge/VS%20Code-ED9F27?style=for-the-badge&logo=visualstudiocode&logoColor=412402)
-![PyCharm](https://img.shields.io/badge/PyCharm-0F6E56?style=for-the-badge&logo=pycharm&logoColor=E1F5EE)
-![Git](https://img.shields.io/badge/Git-085041?style=for-the-badge&logo=git&logoColor=9FE1CB)
-![GitHub](https://img.shields.io/badge/GitHub-412402?style=for-the-badge&logo=github&logoColor=FAEEDA)
+**AI & LLMs**
+
+![Claude](https://img.shields.io/badge/Claude%20·%20Anthropic-085041?style=for-the-badge&logo=anthropic&logoColor=9FE1CB)
+![LLMs](https://img.shields.io/badge/LLMs%20%26%20Prompt%20Eng.-0F6E56?style=for-the-badge&logo=openai&logoColor=E1F5EE)
+![AI Dev](https://img.shields.io/badge/AI--Assisted%20Dev-ED9F27?style=for-the-badge&logo=github&logoColor=412402)
+
+**Dev & Tools**
+
+![Streamlit](https://img.shields.io/badge/Streamlit-085041?style=for-the-badge&logo=streamlit&logoColor=9FE1CB)
+![VS Code](https://img.shields.io/badge/VS%20Code-0F6E56?style=for-the-badge&logo=visualstudiocode&logoColor=E1F5EE)
+![PyCharm](https://img.shields.io/badge/PyCharm-085041?style=for-the-badge&logo=pycharm&logoColor=9FE1CB)
+![Git](https://img.shields.io/badge/Git-ED9F27?style=for-the-badge&logo=git&logoColor=412402)
+![GitHub](https://img.shields.io/badge/GitHub-04342C?style=for-the-badge&logo=github&logoColor=FAEEDA)
 
 </div>
 
 ---
 
-## 🧠 O que eu faço · What I do
+## 🧠 O que eu faço &nbsp;·&nbsp; What I do
 
 <table>
 <tr>
 <td align="center" width="33%">
 
-**🤖 AI Solutions**
+**🤖 AI & LLMs**
 
-PT: Construo produtos e automações com IA para resolver problemas reais de dados e processos
+🇧🇷 Estudo IA em profundidade — arquitetura de LLMs, engenharia de prompts e desenvolvimento assistido. Uso IA como ferramenta real de trabalho, não apenas como apoio.
 
-EN: Building AI products and automations to solve real data and process challenges
-
-</td>
-<td align="center" width="33%">
-
-**📊 Data & BI**
-
-PT: Analiso dados, construo dashboards e gero insights com Python, SQL e Power BI
-
-EN: Analyzing data, building dashboards and generating insights with Python, SQL & Power BI
+🌎 Studying AI in depth — LLM architecture, prompt engineering and AI-assisted dev. Using AI as a real work tool, not just as support.
 
 </td>
 <td align="center" width="33%">
 
-**⚙️ Process Architecture**
+**📊 Data & Automação**
 
-PT: Aplico gestão de projetos e arquitetura de processos com apoio de IA
+🇧🇷 Construo dashboards, automações e pipelines de dados com Python, SQL e Power BI. Já resolvi problemas reais em ambiente institucional com código assistido por IA.
 
-EN: Applying project management and process architecture supported by AI
+🌎 Building dashboards, automations and data pipelines with Python, SQL and Power BI. Already solved real institutional problems with AI-assisted code.
+
+</td>
+<td align="center" width="33%">
+
+**⚙️ Gestão & Processos**
+
+🇧🇷 Aplico gestão de projetos (Google PM Cert.) e arquitetura de processos com visão estratégica. Atuo na interface entre tecnologia, produto e decisão.
+
+🌎 Applying project management (Google PM Cert.) and process architecture with strategic vision. Working at the intersection of technology, product and decision-making.
 
 </td>
 </tr>
 </table>
+
+---
+
+## 📦 Projeto em destaque &nbsp;·&nbsp; Featured project
+
+> 🇧🇷 *Projetos indexados em breve — Python, SQL, Power BI e IA.*  
+> 🌎 *Indexed projects coming soon — Python, SQL, Power BI and AI.*
+
+### 🗂️ Sistema de Gestão de Atrasos de Acervo — CBIM/IFPE
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+**🇧🇷 O que é**  
+Ferramenta para automatizar a triagem de empréstimos em atraso durante a migração do sistema Qbiblio → Koha, desenvolvida com IA como assistente de codificação.
+
+**O que faz**
+- Extração e estruturação de dados de PDFs via Python
+- Cruzamento de 164 atrasos com catálogo de +4.400 tombos
+- Priorização de cobranças com base no período acadêmico
+- Dashboard com visão geral, lista de alunos, análise do acervo e exportação para Excel
+
+</td>
+<td width="40%" valign="top">
+
+**🌎 What it is**  
+Tool to automate overdue loan screening during Qbiblio → Koha migration, built with AI as coding assistant.
+
+**Stack**
+
+![Python](https://img.shields.io/badge/Python-085041?style=flat-square&logo=python&logoColor=9FE1CB)
+![Pandas](https://img.shields.io/badge/Pandas-0F6E56?style=flat-square&logo=pandas&logoColor=E1F5EE)
+![Streamlit](https://img.shields.io/badge/Streamlit-ED9F27?style=flat-square&logo=streamlit&logoColor=412402)
+![pdfplumber](https://img.shields.io/badge/pdfplumber-085041?style=flat-square&logo=adobeacrobatreader&logoColor=9FE1CB)
+![AI Dev](https://img.shields.io/badge/AI--Assisted-0F6E56?style=flat-square&logo=anthropic&logoColor=E1F5EE)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏅 Certificações &nbsp;·&nbsp; Certifications
+
+<div align="center">
+
+![Google PM](https://img.shields.io/badge/Google%20Project%20Management-085041?style=for-the-badge&logo=google&logoColor=9FE1CB)
+![GenAI](https://img.shields.io/badge/Generative%20AI%20Fundamentals-ED9F27?style=for-the-badge&logo=anthropic&logoColor=412402)
+
+</div>
 
 ---
 
@@ -112,29 +166,18 @@ EN: Applying project management and process architecture supported by AI
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=JoaoManoel01&show_icons=true&theme=dark&bg_color=04342C&title_color=ED9F27&icon_color=9FE1CB&text_color=E1F5EE&border_color=0F6E56&hide_border=false&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoManoel01&layout=compact&theme=dark&bg_color=04342C&title_color=ED9F27&text_color=E1F5EE&border_color=0F6E56&hide_border=false"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=JoaoManoel01&show_icons=true&theme=dark&bg_color=04342C&title_color=ED9F27&icon_color=9FE1CB&text_color=E1F5EE&border_color=0F6E56&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoManoel01&layout=compact&theme=dark&bg_color=04342C&title_color=ED9F27&text_color=E1F5EE&border_color=0F6E56"/>
 
 </div>
 
 ---
 
-## 🚀 Em breve · Coming soon
+## 📬 Contato &nbsp;·&nbsp; Contact
 
 <div align="center">
 
-> 🇧🇷 Projetos indexados envolvendo Python, SQL e Power BI chegando em breve.
-> 🌎 Indexed projects involving Python, SQL and Power BI coming soon.
-
-</div>
-
----
-
-## 📬 Contato · Contact
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F6E56?style=for-the-badge&logo=linkedin&logoColor=E1F5EE)](https://www.linkedin.com/in/joaomanoel01/)
+[![LinkedIn](https://img.shields.io/badge/João%20Manoel-0F6E56?style=for-the-badge&logo=linkedin&logoColor=E1F5EE)](https://www.linkedin.com/in/joaomanoelfin/)
 
 </div>
 
@@ -142,10 +185,8 @@ EN: Applying project management and process architecture supported by AI
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,085041,0F6E56,ED9F27&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,ED9F27,0F6E56,04342C&height=110&section=footer" width="100%"/>
 
-</div>
-
-<div align="center">
 <img src="https://komarev.com/ghpvc/?username=JoaoManoel01&color=0F6E56&style=flat-square&label=visitors"/>
+
 </div>
