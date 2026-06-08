@@ -113,9 +113,6 @@
 
 ## 📦 Projeto em destaque &nbsp;·&nbsp; Featured project
 
-> 🇧🇷 *Projetos indexados em breve — Python, SQL, Power BI e IA.*  
-> 🌎 *Indexed projects coming soon — Python, SQL, Power BI and AI.*
-
 ### 🗂️ Sistema de Gestão de Atrasos de Acervo — CBIM/IFPE
 
 <table>
