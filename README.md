@@ -8,9 +8,11 @@
 
 ### Sobre
 
-Administração · IFPE Campus Igarassu — Recife, PE. Atualmente cuido de modelagem de processos, projetos para diferentes setores e rotinas administrativas.
+**Administração · IFPE Campus Igarassu — Recife, PE**
 
-Antes de construir, modelo o processo; antes de executar, defino o plano. IA entra na entrega — não substitui as duas primeiras etapas.
+- Estagiário na Divisão de Pesquisa e Extensão do Instituto Federal de Pernambuco
+- Modelagem de processos e projetos independentes e interdependentes para diferentes setores (DPEX - CREE)
+- Rotinas administrativas aplicando as óticas da administração.
 
 <details>
 <summary><img src="./icon-globe.svg" width="14" align="top"/> English</summary>
