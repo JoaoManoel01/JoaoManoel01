@@ -103,9 +103,9 @@ Tool to automate overdue loan screening during Qbiblio → Koha migration, built
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=JoaoManoel01&show_icons=true&theme=dark&bg_color=1c1c1a&title_color=f2f1ed&icon_color=8c8c89&text_color=c9c7c0&border_color=4a4a48&count_private=true&hide_border=false"/>
+<img height="165em" src="https://github-stats-extended.vercel.app/api?username=JoaoManoel01&show_icons=true&theme=dark&bg_color=1c1c1a&title_color=f2f1ed&icon_color=8c8c89&text_color=c9c7c0&border_color=4a4a48&count_private=true&hide_border=false"/>
 &nbsp;&nbsp;
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoManoel01&layout=compact&theme=dark&bg_color=1c1c1a&title_color=f2f1ed&text_color=c9c7c0&border_color=4a4a48&hide_border=false"/>
+<img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=JoaoManoel01&layout=compact&theme=dark&bg_color=1c1c1a&title_color=f2f1ed&text_color=c9c7c0&border_color=4a4a48&hide_border=false"/>
 
 </div>
 
